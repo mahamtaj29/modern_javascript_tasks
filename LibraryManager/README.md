@@ -12,7 +12,7 @@ The Library Management System in JavaScript provides a user-friendly interface f
 To use this library management system, you can simply copy and paste the provided code into your JavaScript environment.
 Make sure to customize the code based on your specific requirements.
 
-1. **Add New Book:** :** 
+1. **Add New Book:**
    - To add a new book to the library, use the addBook function. Initialize a new book with the title, author, and read status, then call the addBook function.
 
 2. **Mark Book as Read:** 
